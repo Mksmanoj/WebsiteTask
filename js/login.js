@@ -4,12 +4,12 @@ function validate() {
   var username = document.getElementById("username").value;
   var password = document.getElementById("password").value;
   if (username == "Yusata" && password == "Yusata123") {
-    alert("Login successfully");
+    
     window.location = "default.html"; // Redirecting to other page.
     return false;
   }
   if (username == "Manoj" && password == "Manoj123") {
-    alert("Login successfully");
+    // alert("Login successfully");
     window.location = "default.html"; // Redirecting to other page.
     return false;
   } else {
