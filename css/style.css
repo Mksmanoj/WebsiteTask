@@ -9,11 +9,12 @@
   background-color: aqua;
 }
 #topHeader{
-  border-bottom: 1px solid #ebebeb;
+  background-color: rgb(193, 247, 113);
+  border-bottom: 1px solid red;
 }
 #topHeader a{
   color: #2c3e50;
-  font-weight: 600;
+  font-weight: 700;
   font-size: 0.89rem;
 }
 .container-fluid{
